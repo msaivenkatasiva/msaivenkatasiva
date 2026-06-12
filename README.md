@@ -12,7 +12,7 @@
 
 <div align="center">
 
-> 🔒 **DevSecOps Engineer** with **3 years** of hands-on experience building and securing cloud-native infrastructure on **AWS**.
+> 🔒 **DevSecOps Engineer** with **5 years** of hands-on experience building and securing cloud-native infrastructure on **AWS**.
 > Specialist in **Kubernetes** orchestration and **Terraform** Infrastructure as Code — automating everything from provisioning to deployment.
 > A passionate **Shift Left Security** advocate who embeds security at every stage of the SDLC.
 > Experienced in designing **end-to-end DevSecOps pipelines** with integrated SAST, container scanning, and dependency analysis.
